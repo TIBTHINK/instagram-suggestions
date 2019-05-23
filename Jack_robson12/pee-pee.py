@@ -1,6 +1,7 @@
 import turtle
 
 t = turtle.Turtle()
+turtle.title ('fuck you jack')
 
 for c in ["#D7B384"]:
     # NUTS
@@ -12,7 +13,7 @@ for c in ["#D7B384"]:
     t.pendown()
     t.circle(50)
     t.right(90)
-    t.forward(30)
+    t.forward(300)
 
     # TIP
     t.color("#D57983")
@@ -92,3 +93,5 @@ for c in ["#D7B384"]:
     t.forward(30)
     t.left(45)
     t.forward(30)
+    t.hideturtle()
+    turtle.done()
