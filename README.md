@@ -1,4 +1,4 @@
-# how i got here
+# How I got here
 
-so i was really bored and decited to ask my instagram followers to
+so I was really bored and decided to ask my Instagram followers to
 give me things to make.... this is what they sent
